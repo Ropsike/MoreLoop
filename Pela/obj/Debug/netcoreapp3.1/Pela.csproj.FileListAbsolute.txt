@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\bin\Debug\netcoreapp3.1\Pela.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pela\obj\Debug\netcoreapp3.1\Pela.genruntimeconfig.cache

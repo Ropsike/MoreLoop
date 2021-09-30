@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\bin\Debug\netcoreapp3.1\Pardiluuletus.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\Pardiluuletus\obj\Debug\netcoreapp3.1\Pardiluuletus.genruntimeconfig.cache

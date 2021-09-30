@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\bin\Debug\netcoreapp3.1\NumberGeneratorGame.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoreLoop\NumberGeneratorGame\obj\Debug\netcoreapp3.1\NumberGeneratorGame.genruntimeconfig.cache
